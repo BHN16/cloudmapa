@@ -116,7 +116,7 @@ Se realizó una prueba de escalabilidad horizontal en un clúster de Amazon Elas
 
 ### Jmeter
 
-![Pruebas con Jmeter](./jmeter.jpg)
+![Pruebas con Jmeter](./jmeter.png)
 
 
 La herramienta JMeter fue utilizada para evaluar la escalabilidad de los contenedores en un clúster de Amazon Web Services (AWS). Mediante pruebas de carga, JMeter permitió alcanzar los límites máximos configurados de CPU y memoria en el clúster, activando las políticas de autoescalado. Esto aseguró la validación del comportamiento dinámico del sistema, demostrando su capacidad para responder eficientemente a incrementos en la demanda.
